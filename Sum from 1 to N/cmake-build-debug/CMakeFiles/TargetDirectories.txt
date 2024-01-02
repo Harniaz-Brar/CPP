@@ -1,0 +1,3 @@
+C:/Users/14165/CLionProjects/Sum from 1 to N/cmake-build-debug/CMakeFiles/Sum_from_1_to_N.dir
+C:/Users/14165/CLionProjects/Sum from 1 to N/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/14165/CLionProjects/Sum from 1 to N/cmake-build-debug/CMakeFiles/rebuild_cache.dir

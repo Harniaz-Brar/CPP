@@ -1,0 +1,3 @@
+C:/Users/14165/CLionProjects/Number prime or not/cmake-build-debug/CMakeFiles/Number_prime_or_not.dir
+C:/Users/14165/CLionProjects/Number prime or not/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/14165/CLionProjects/Number prime or not/cmake-build-debug/CMakeFiles/rebuild_cache.dir
