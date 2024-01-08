@@ -1,0 +1,3 @@
+C:/Users/14165/CLionProjects/initialize the array with any value/cmake-build-debug/CMakeFiles/initialize_the_array_with_any_value.dir
+C:/Users/14165/CLionProjects/initialize the array with any value/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/14165/CLionProjects/initialize the array with any value/cmake-build-debug/CMakeFiles/rebuild_cache.dir
