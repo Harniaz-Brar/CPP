@@ -1,0 +1,3 @@
+C:/Users/14165/CLionProjects/Calculate Max and Min Element in an array/cmake-build-debug/CMakeFiles/Calculate_Max_and_Min_Element_in_an_array.dir
+C:/Users/14165/CLionProjects/Calculate Max and Min Element in an array/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/14165/CLionProjects/Calculate Max and Min Element in an array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
