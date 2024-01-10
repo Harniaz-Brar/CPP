@@ -1,0 +1,3 @@
+C:/Users/14165/CLionProjects/Reverse an array/cmake-build-debug/CMakeFiles/Reverse_an_array.dir
+C:/Users/14165/CLionProjects/Reverse an array/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/14165/CLionProjects/Reverse an array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
