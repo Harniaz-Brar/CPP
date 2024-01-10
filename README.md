@@ -1,2 +1,2 @@
-# CPP
-Learning and revising C++ and posting everything that i do daily.
+# C++
+Learning and revising C++ and posting everything that I do daily.
