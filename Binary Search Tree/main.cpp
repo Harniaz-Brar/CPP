@@ -5,6 +5,7 @@ int binarySearch(int arr[], int size, int key) {
 
     int start = 0;
     int end = size-1;
+    // changed the formula so that the value of int does not exceed the limit . //
     int mid = start + (end - start)/2;
 
     while(start <= end)
