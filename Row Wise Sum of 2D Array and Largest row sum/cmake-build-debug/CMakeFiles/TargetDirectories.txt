@@ -1,0 +1,3 @@
+C:/Users/14165/CLionProjects/Row Wise Sum of 2D Array/cmake-build-debug/CMakeFiles/Row_Wise_Sum_of_2D_Array.dir
+C:/Users/14165/CLionProjects/Row Wise Sum of 2D Array/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/14165/CLionProjects/Row Wise Sum of 2D Array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
